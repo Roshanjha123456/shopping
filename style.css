@@ -1,0 +1,66 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    .nav-link{
+        color: #070707;
+        font-weight: 900;
+        font-size: 20px;
+    
+    }
+    .navbar-brand{
+      
+        font-size: 50px;
+        font-weight: 800;
+        padding-right: 8px;
+        font-family: 'Limelight', cursive;
+        color: blue;
+        
+    }
+    .btn{
+        background-color: red;
+        height: 45px;
+        width: 140px;
+        color: white;
+        outline: none;
+        border: none;
+    }
+    .btn:hover{
+        background-color: white;
+    }
+    .sub{
+        background-color: gray;
+    }
+    .sub input{
+    height: 51px;
+    width: 140px;
+    color: black;
+    outline: none;
+    padding: 10px;
+    }
+    .btn1{
+        height:50px;
+        width: 50%;
+        color: white;
+        background-color: yellowgreen;
+        outline: none;
+        border: none;
+        margin-left: -2px;
+    }
+.btn1:hover{
+    background-color: black;
+    color: white;
+    transition: 0.6;
+
+}
+.fas{
+    font-size: 32px;
+}
+    .collection span{
+        color: yellowgreen;
+        font-size: 23px;
+        font-weight: 800px;
+        padding-left: 5px;
+    }
